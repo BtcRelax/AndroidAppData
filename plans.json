@@ -1,22 +1,17 @@
-{
-	"plans": [
-
-		{
-			"name": "HA-Manager",
-			"filename": "android-ha-manager",
-			"url": "https://raw.githubusercontent.com/AltNico/asura/master/online/stuff/example.pdf"
-		},
-
-		{
-			"name": "F-Droid",
-			"filename": "android-f-droid",
-			"url": "https://raw.githubusercontent.com/AltNico/asura/master/online/stuff/example.pdf"
-		},
-
-		{
-			"name": "Vanilla Music",
-			"filename": "android-vanilla-music",
-			"url": "https://raw.githubusercontent.com/AltNico/asura/master/online/stuff/example.pdf"
-		}
-	]
-}
+{"plans":[
+	{
+		"name": "HA-Manager",
+		"filename": "android-ha-manager",
+		"url": "https://gitlab.com/asura/data/raw/master/stuff/example.pdf"
+	},
+	{
+		"name": "F-Droid",
+		"filename": "android-f-droid",
+		"url": "https://gitlab.com/asura/data/raw/master/stuff/example.pdf"
+	},
+	{
+		"name": "Vanilla Music",
+		"filename": "android-vanilla-music",
+		"url": "https://gitlab.com/asura/data/raw/master/stuff/example.pdf"
+	}
+]}
