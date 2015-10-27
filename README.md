@@ -1,6 +1,6 @@
 ## Data
 
-[![Build Status](https://ci.gitlab.com/projects/7059/status.png?ref=master)](https://ci.gitlab.com/projects/7059?ref=master)
+[![Build Status](https://ci.gitlab.com/projects/7059/status.png?ref=master)](https://gitlab.com/asura/data/commits/master)
 
 This repository contains the data used in
 [Asura](https://gitlab.com/asura/android).
