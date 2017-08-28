@@ -1,10 +1,5 @@
 {"plans":[
 	{
-		"name": "HA-Manager",
-		"filename": "android-ha-manager",
-		"url": "https://gitlab.com/asura/data/raw/master/stuff/example.pdf"
-	},
-	{
 		"name": "F-Droid",
 		"filename": "android-f-droid",
 		"url": "https://gitlab.com/asura/data/raw/master/stuff/example.pdf"
